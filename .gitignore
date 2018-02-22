@@ -1,0 +1,6 @@
+/.vs/*
+/NSBTest/bin/*
+/NSBTest/obj/*
+*.user
+/packages/*
+/NSBTest/ConnectionStrings.config
